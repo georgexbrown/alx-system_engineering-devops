@@ -1,3 +1,2 @@
 #!/bin/bash
-ALX System Engineering DevOps
-Here, we go hard or go home. . .
+ALX System Engineering DevOps - Here, we go hard or go home. . .
