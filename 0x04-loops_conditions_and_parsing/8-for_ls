@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script list the contents in the current directory without the dash or numbering
+list=$(ls)
+for i in $list; do echo "$i" | cut -d '-' -f2; done
