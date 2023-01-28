@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script stops the running of a specified process (task 7)
+kill "$(pgrep -f 7-highlander)"
