@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script displays line containing 'bash' word from list of currently running proocesses
+ps auxf | grep bash
